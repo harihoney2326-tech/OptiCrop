@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/91501677-df93-443c-a969-3fdbc2c4fcf2
+View your app in AI Studio:[ https://ai.studio/apps/91501677-df93-443c-a969-3fdbc2c4fcf2](https://opticrop-smart-agri-v1.ai.studio)
 
 ## Run Locally
 
